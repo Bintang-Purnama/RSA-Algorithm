@@ -51,5 +51,5 @@ This program implements the core RSA formulas:
 This program is for **educational purposes only**. The prime numbers generated are deliberately kept small (range 10-300) to ensure the program runs instantly for demonstration. Secure, production-grade RSA requires prime numbers with hundreds of digits (e.g., 2048-bit keys).
 
 ---
-**Created by:** [Your Name / Student ID]
-**Course:** Information Security / Cryptography
+**Created by:** Bintang Surya Purnama
+**Course:** Data Security
